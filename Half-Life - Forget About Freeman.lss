@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Half-Life</GameName>
+  <CategoryName>IL - Forget about Freeman</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>c3a1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>c3a1a</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>c3a1b</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>2.0.2.0</Version>
+    <EnableAutoSplit>True</EnableAutoSplit>
+    <SplitOnGameEnd>True</SplitOnGameEnd>
+    <SplitOnHL1Chapters>False</SplitOnHL1Chapters>
+    <SplitOnOP4Chapters>False</SplitOnOP4Chapters>
+    <SplitOnBSChapters>False</SplitOnBSChapters>
+    <SplitOnGMCChapters>False</SplitOnGMCChapters>
+    <SplitOnMaps>True</SplitOnMaps>
+    <SplitOnMapsList>c3a1a|c3a1b|c3a2e</SplitOnMapsList>
+    <EnableAutoReset>True</EnableAutoReset>
+    <EnableAutoStart>True</EnableAutoStart>
+  </AutoSplitterSettings>
+</Run>

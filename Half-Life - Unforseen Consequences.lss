@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Half-Life</GameName>
+  <CategoryName>IL - Unforseen Consequences</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>c1a0c</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>c1a1</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>c1a1a</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>c1a1f</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>c1a1b</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>c1a1c</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>2.0.2.0</Version>
+    <EnableAutoSplit>True</EnableAutoSplit>
+    <SplitOnGameEnd>True</SplitOnGameEnd>
+    <SplitOnHL1Chapters>False</SplitOnHL1Chapters>
+    <SplitOnOP4Chapters>False</SplitOnOP4Chapters>
+    <SplitOnBSChapters>False</SplitOnBSChapters>
+    <SplitOnGMCChapters>False</SplitOnGMCChapters>
+    <SplitOnMaps>True</SplitOnMaps>
+    <SplitOnMapsList>c1a1|c1a1a|c1a1f|c1a1b|c1a1c|c1a2</SplitOnMapsList>
+    <EnableAutoReset>True</EnableAutoReset>
+    <EnableAutoStart>True</EnableAutoStart>
+  </AutoSplitterSettings>
+</Run>
