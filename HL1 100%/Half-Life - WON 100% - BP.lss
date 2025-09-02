@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Run version="1.7.0">
   <GameIcon />
   <GameName>Half-Life</GameName>
@@ -63,16 +63,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>- c1a4e 51/64</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
-      <Name>- c1a4d/c1a4b 56/64</Name>
+      <Name>- c1a4e 56/64</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
