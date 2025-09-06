@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Half-Life</GameName>
+  <CategoryName>WON 100% - Apprehension</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>- c2a3 5/47</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- c2a3a 13/47</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- c2a3b 28/47</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- c2a3c 40/47</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>{Apprehension} c2a3d 47/47</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>2.0.2.0</Version>
+    <EnableAutoSplit>True</EnableAutoSplit>
+    <SplitOnGameEnd>True</SplitOnGameEnd>
+    <SplitOnHL1Chapters>False</SplitOnHL1Chapters>
+    <SplitOnOP4Chapters>False</SplitOnOP4Chapters>
+    <SplitOnBSChapters>False</SplitOnBSChapters>
+    <SplitOnGMCChapters>False</SplitOnGMCChapters>
+    <SplitOnMaps>True</SplitOnMaps>
+    <SplitOnMapsList>c2a3a|c2a3b|c2a3c|c2a3d|c2a4</SplitOnMapsList>
+    <EnableAutoReset>True</EnableAutoReset>
+    <EnableAutoStart>True</EnableAutoStart>
+  </AutoSplitterSettings>
+</Run>

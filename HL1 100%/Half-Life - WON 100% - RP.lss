@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Half-Life</GameName>
+  <CategoryName>WON 100% - Residue Processing</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+    <CustomVariables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>- c2a4 2/25</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- c2a4a 10/25</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>- c2a4b 14/25</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>{Residue Processing} c2a4c 25/25</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>2.0.2.0</Version>
+    <EnableAutoSplit>True</EnableAutoSplit>
+    <SplitOnGameEnd>True</SplitOnGameEnd>
+    <SplitOnHL1Chapters>False</SplitOnHL1Chapters>
+    <SplitOnOP4Chapters>False</SplitOnOP4Chapters>
+    <SplitOnBSChapters>False</SplitOnBSChapters>
+    <SplitOnGMCChapters>False</SplitOnGMCChapters>
+    <SplitOnMaps>True</SplitOnMaps>
+    <SplitOnMapsList>c2a4a|c2a4b|c2a4c|c2a4d</SplitOnMapsList>
+    <EnableAutoReset>True</EnableAutoReset>
+    <EnableAutoStart>True</EnableAutoStart>
+  </AutoSplitterSettings>
+</Run>
